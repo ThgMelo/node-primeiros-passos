@@ -1,0 +1,8 @@
+{
+  "name": "modulos-es6",
+  "version": "1.0.0",
+  "description": "Exportando e importando módulos com o padrão ES6 (ESM)",
+  "main": "index.js",
+  "author": "Thiago Melo <es.thg.melo@gmail.com>",
+  "type": "module"
+}
